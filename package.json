@@ -1,0 +1,19 @@
+{
+  "name": "cursoclosuresandscopejavascript.github.io",
+  "version": "1.0.0",
+  "description": "Curso de Closures y Scope en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulcardenas1999/CursoClosuresAndScopeJavascript.github.io.git"
+  },
+  "author": "Raul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulcardenas1999/CursoClosuresAndScopeJavascript.github.io/issues"
+  },
+  "homepage": "https://github.com/raulcardenas1999/CursoClosuresAndScopeJavascript.github.io#readme"
+}
